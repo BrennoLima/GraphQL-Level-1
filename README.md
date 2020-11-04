@@ -1,1 +1,1 @@
-Simple Full Stack application using GraphQL, Node, Express, and React.
+Simple Full Stack application using GraphQL, Node, Express, React, and Hooks.
